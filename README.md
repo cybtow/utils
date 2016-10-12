@@ -50,4 +50,4 @@ Utils library
 -------------
 * slug: Create a valid string for urls
 * getUniqId: Return a unique random id
-* echoVarDump: Prints a var dump and exists (optionaly)
+* echoVarDump: Prints a var dump and exits (optionaly)

@@ -49,7 +49,7 @@ class Utils {
     }
 
     /**
-     * echoVarDump: Prints a var dump and exists (optionaly)
+     * echoVarDump: Prints a var dump and exits (optionaly)
      * 
      * @param mixed $data
      * @param bool $exit
