@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3",
+        "oyejorge/less.php": "v1.7.0.10"
     },
     "autoload": {
         "psr-4": {
