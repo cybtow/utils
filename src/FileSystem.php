@@ -5,7 +5,7 @@ namespace Cybtow\Utils;
 /**
  * Description of FileSystem
  *
- * @author juanma
+ * @author cybtow
  */
 class FileSystem {
 

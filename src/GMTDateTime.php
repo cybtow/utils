@@ -5,7 +5,7 @@ namespace Cybtow\Utils;
 /**
  * Description of GMTDateTime
  *
- * @author juanma
+ * @author cybtow
  */
 class GMTDateTime extends \DateTime {
 
