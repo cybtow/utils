@@ -1,0 +1,21 @@
+{
+    "name": "cybtow/utils",
+    "description": "Library of several utilities for PHP applications",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["util", "utils", "utilities"],
+    "authors": [
+        {
+            "name": "cybtow",
+            "homepage": "https://github.com/cybtow/utilities"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cybtow\\Utils\\": "src/"
+        }
+    }
+}
