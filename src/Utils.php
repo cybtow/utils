@@ -10,7 +10,7 @@ namespace Cybtow\Utils;
 class Utils {
 
     /**
-     * Slug: Create a valid string for urls
+     * slug: Create a valid string for urls
      * 
      * @param string $str
      * @param array $replace
